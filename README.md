@@ -1,1 +1,1 @@
-# Calculator-using-HTML-CSS-and-JavaScript
+It is my first basics project which is a calculator .we simply use html,css,and javascript for making this project.
